@@ -1,0 +1,13 @@
+{
+    "enviornment": "prod",
+    "appId":"733936538bd77bb9b19ec42f039337",
+    "secretKey":"224701d6a17cdeb599b49c40bf54d0fda2b5d3d4",
+    "paths":{
+        "test":{
+            "cashfreePayUrl":"https://test.cashfree.com/billpay/checkout/post/submit"
+        },
+        "prod":{
+            "cashfreePayUrl":"https://www.cashfree.com/checkout/post/submit"
+        }
+    }
+}
